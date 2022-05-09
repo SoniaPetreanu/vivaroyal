@@ -1,0 +1,242 @@
+body {
+  font-family: 'EB Garamond', serif;
+  line-height: 1.5;
+}
+
+.desprenoi-title {
+  padding-left: 100px;
+  padding-bottom: 50px;
+  text-align: left;
+  font-family: 'EB Garamond', serif, bold;
+  line-height: 1.5;
+  padding-top: 50px;
+}
+
+hr {
+  border-style: double;
+  border-bottom: none;
+  width: 10%;
+  border-width: 5px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.background {
+  position: absolute;
+  width: 100%;
+  height: 650px;
+}
+
+.poza2 {
+  display: none;
+}
+
+/* brand  */
+.navbar-brand {
+  font-family: 'Yellowtail', cursive;
+  padding: 10px 10px;
+}
+
+/* presentation */
+.desprenoi {
+  background-color: white;
+  margin-top: 650px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.paragrafdesprenoi {
+  width: 70%;
+  text-align: left;
+  padding-left: 100px;
+  padding-top: 10px;
+  padding-bottom: 100px;
+  color: grey;
+  font-family: 'EB Garamond', serif;
+  line-height: 1.5;
+}
+
+/* pricing */
+.bg-meniu {
+  background-color: #F0E7D5;
+}
+
+.row {
+  padding-left: 50px;
+  padding-bottom: 100px;
+}
+
+/* media */
+@media (max-width:1028px) {
+  .paragrafdesprenoi {
+    width: 70%;
+    text-align: left;
+  }
+
+  .ch-glasses {
+    display: none;
+  }
+
+  #carouselshow {
+    width: 70%;
+  }
+
+  .vivavid {
+    margin: auto;
+  }
+
+  .background {
+    display: none;
+  }
+
+  .poza2 {
+    display: inline;
+    position: absolute;
+    width: 100%;
+  }
+}
+
+.princing-colomn {
+  padding: 7% 15%;
+}
+
+/* meniu-page */
+.paragraf-meniu {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 1.2rem;
+}
+
+.text-meniu {
+  font-size: 1.2rem;
+  padding-left: 50px;
+  ;
+  padding-top: 10px;
+  text-align: center;
+  width: 90%;
+}
+
+.meniu-page {
+  background-color: #F0E7D5;
+}
+
+.h3meniu {
+  text-align: center;
+}
+
+.footer {
+  padding-top: 100px;
+  font-size: 1, 5rem;
+  font-family: 'EB Garamond', serif;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+#carouselshow {
+  width: 40%;
+  margin: auto;
+}
+
+.ch-glasses {
+  float: left;
+  position: absolute;
+}
+
+.aperitiv {
+  margin-left: 10px;
+  text-align: center;
+}
+
+/* video */
+.video {
+  background-color: #C98748;
+}
+
+.vivavid {
+  margin: 50px 100px 50px 100px;
+  ;
+  position: static;
+  width: 70%;
+}
+
+#contact {
+  background-color: black;
+}
+
+.Contactme {
+  text-align: center;
+  font-size: 1.5rem;
+  padding-bottom: 50px;
+}
+
+.name {
+  color: #F0E7D5;
+  padding-top: 50px;
+}
+
+.tel {
+  color: #F0E7D5;
+  text-decoration: none;
+}
+
+.email {
+  text-decoration: none;
+  color: #F0E7D5;
+  padding-bottom: 100px;
+}
+
+/* despre noi */
+#despre {
+  background-color: #F0E7D5;
+}
+
+.descriere {
+  font-size: 1.5rem;
+  width: 70%;
+  text-align: left;
+  margin: auto 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.desgri {
+  color: #9A9483;
+}
+
+#facebook {
+  background-color: black;
+}
+
+.fblink {
+  font-size: 2rem;
+  color: #F0E7D5;
+  text-align: center;
+}
+
+/* contact */
+.contact {
+
+  text-align: left;
+  padding: 100px 200px 100px 100px;
+}
+
+#c {
+  background-color: #F0E7D5;
+  font-size: 2rem;
+  padding-top: 100px;
+  padding-left: 100px;
+  padding-bottom: 200px;
+}
+
+.contactfoto{
+  float: right;
+  margin-right: 100px;
+}
+.c-brown{
+  color: #FFBD35;
+}
